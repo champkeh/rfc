@@ -1,4 +1,4 @@
-# rfc - 研究rfc协议，并对这些协议进行基本的golang实现
+# 研究rfc协议，并对这些协议进行基本的golang实现
 
 ## 1. RFC 4226 - HOTP
 协议地址: [rfc4226](https://tools.ietf.org/html/rfc4226)
@@ -33,3 +33,11 @@
 > 主要规定了邮件客户端如何从邮件服务器获取邮件
 >
 > 参考实现为 [emersion/go-imap](https://github.com/emersion/go-imap)
+
+## 6. RFC 7519 - JWT
+协议地址: [rfc7519](https://tools.ietf.org/html/rfc7519)
+
+> jwt，全称 JSON Web Token
+> 用于在网络上的双方之间传输claim的紧凑并且url安全的方式。
+>
+> 参考实现为 [gbrlsnchs/jwt](https://github.com/gbrlsnchs/jwt)
