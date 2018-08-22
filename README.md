@@ -41,3 +41,7 @@
 > 用于在网络上的双方之间传输claim的紧凑并且url安全的方式。
 >
 > 参考实现为 [gbrlsnchs/jwt](https://github.com/gbrlsnchs/jwt)
+
+## 7. RFC 3986 - URI: Generic Syntax
+协议地址: [rfc3986](https://tools.ietf.org/html/rfc3986)
+主要是规定了URL的语法，可以参考一下
